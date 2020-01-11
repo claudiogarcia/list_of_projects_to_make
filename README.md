@@ -1,1 +1,7 @@
-# list_of_projects_to_make
+# LIST OF PROJECTS YET TO BE COMPLETED OR IMPROVED
+
+CREATE:
+Tic Tac Toe
+
+IMPROVE:
+Hangman.py
